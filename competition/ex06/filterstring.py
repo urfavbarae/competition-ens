@@ -1,10 +1,9 @@
 import sys
 
 def filter_string(s, n):
-    assert len(sys.argv) == 3 and isinstance(s, str) and isinstance(n, int), "the arguments are bad"
-    words = [word for word in s.split() if all(c.isalnum() for c in word) and len(word) > n]
-    filtered = list(map(lambda x: x, words))
-    return filtered
+    assert len(sys.argv) == 3 and isinstance(s, str) and isinstance(n, int), "bad arugments"
+    words = [word for word in s.split() if word.isalnum() and len(word) > n]
+    return words
 
 if __name__ == "__main__":
     s = sys.argv[1]
