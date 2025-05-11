@@ -10,4 +10,4 @@ for elem in tqdm(range(333)):
     sleep(0.005)
 print()
 #to test run
-#python3 tester.py
+#python tester.py
