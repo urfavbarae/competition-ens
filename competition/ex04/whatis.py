@@ -19,3 +19,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#to test run 
+#python whatis.py 2
