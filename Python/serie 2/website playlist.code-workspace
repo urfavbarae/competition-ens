@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"name": "website playlist",
+			"path": "../../html/website playlist"
+		},
+		{
+			"name": "website 1 test",
+			"path": "../../html/website 1 test"
+		},
+		{
+			"name": "Exercice5",
+			"path": "../../../../Downloads/HTML5_TP1_Correction/HTML5_TP1_Correction/HTML5_TP1_Correction/Exercice5"
+		},
+		{
+			"name": "ppp",
+			"path": "../../ppp"
+		},
+		{
+			"name": "Python",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website 1 test"
+	}
+}

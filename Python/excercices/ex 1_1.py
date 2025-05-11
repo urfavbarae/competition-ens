@@ -1,0 +1,7 @@
+print("Aujourd’hui il fait très beau")
+print("Tapez « + » si vous choisissez la somme :")
+print("\"I'm\"")
+print("\"\"learning\"\"")
+print("\"\"\"Python\"\"\"")
+print("Programming","Essentials","in",end="...",sep="***")
+print("Python")

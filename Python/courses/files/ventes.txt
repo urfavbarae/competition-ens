@@ -1,0 +1,5 @@
+barae => 5 
+said => 6 
+achraf => 9 
+hamid => 7 
+fatima => 11 
